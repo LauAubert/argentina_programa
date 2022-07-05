@@ -1,0 +1,11 @@
+procedure PonerVerdeYAzul() {
+    Poner(Verde)
+    Poner(Azul)
+}
+procedure PonerNegroYRojo() {
+  Poner(Negro)
+  Poner(Rojo)
+}
+program {
+    PonerNegroYRojo()
+}

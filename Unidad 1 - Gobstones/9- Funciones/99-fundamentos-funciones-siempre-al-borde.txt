@@ -1,0 +1,5 @@
+function estoyEnUnBorde(){
+  return(
+    not(puedeMover(Norte)&&puedeMover(Sur)&&puedeMover(Este)&&puedeMover(Oeste))
+  )
+}

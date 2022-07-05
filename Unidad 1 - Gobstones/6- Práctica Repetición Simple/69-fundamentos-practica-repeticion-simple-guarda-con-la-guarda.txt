@@ -1,0 +1,12 @@
+procedure Azulejo(){
+  PonerN(5,Negro)
+  PonerN(9,Rojo)
+  PonerN(1,Verde)
+}
+procedure GuardaDe5(){
+  repeat(4){
+    Azulejo()
+    Mover(Este)
+  }
+  Azulejo()
+}

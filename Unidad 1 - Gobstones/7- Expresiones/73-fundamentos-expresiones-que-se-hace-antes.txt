@@ -1,0 +1,3 @@
+procedure ContarGente(micros, autos, bicicletas){
+  PonerN(micros*40+autos*4+bicicletas,Verde)
+}

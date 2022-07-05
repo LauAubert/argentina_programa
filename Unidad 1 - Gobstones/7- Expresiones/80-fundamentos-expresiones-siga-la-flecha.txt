@@ -1,0 +1,10 @@
+procedure Flecha(dir){
+  Mover(dir)
+  Poner(Rojo)
+  Mover(opuesto(dir))
+  Mover(siguiente(dir))
+  Poner(Rojo)
+  Mover(previo(dir))
+  Mover(previo(dir))
+  Poner(Rojo)
+  Mover(siguiente(dir))

@@ -1,0 +1,7 @@
+procedure DibujarLineaVerde3(){
+  Poner(Verde)
+  repeat(2){
+  Mover(Este)
+  Poner(Verde)}
+  VolverAtras()
+}

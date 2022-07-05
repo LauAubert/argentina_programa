@@ -1,0 +1,5 @@
+procedure PonerAl(dir,col){
+  Mover(dir)
+  Poner(col)
+  Mover(opuesto(dir))
+}

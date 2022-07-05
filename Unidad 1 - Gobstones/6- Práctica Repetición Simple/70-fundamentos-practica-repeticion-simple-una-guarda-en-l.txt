@@ -1,0 +1,7 @@
+procedure GuardaDeN(n,dir){
+  repeat(n){
+    PonerAzulejo()
+    Mover(dir)
+  }
+  PonerAzulejo()
+}

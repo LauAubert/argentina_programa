@@ -1,0 +1,6 @@
+program{
+  Sacar(Azul)
+  Sacar(Rojo)
+  Sacar(Negro)
+  Sacar(Verde)
+}

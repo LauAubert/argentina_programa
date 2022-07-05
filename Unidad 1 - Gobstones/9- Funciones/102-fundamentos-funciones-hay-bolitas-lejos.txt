@@ -1,0 +1,4 @@
+function hayBolitasLejosAl(d, c, n){
+  MoverN(n,d)
+  return(hayBolitas(c))
+}

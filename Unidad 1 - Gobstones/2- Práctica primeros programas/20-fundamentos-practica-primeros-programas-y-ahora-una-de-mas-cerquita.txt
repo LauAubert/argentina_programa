@@ -1,0 +1,32 @@
+program{
+  Poner(Azul)
+  Mover(Este)
+  Poner(Azul)
+  Mover(Este)
+  Poner(Azul)
+  Mover(Este)
+  Poner(Azul)
+  Mover(Este)
+  Poner(Azul)
+  
+  Mover(Oeste)
+  Mover(Oeste)
+  Mover(Norte)
+  Poner(Rojo)
+  Mover(Sur)
+  Mover(Oeste)
+  Mover(Oeste)
+  
+  Mover(Norte)
+  Mover(Norte)
+  
+  Poner(Azul)
+  Mover(Este)
+  Poner(Azul)
+  Mover(Este)
+  Poner(Azul)
+  Mover(Este)
+  Poner(Azul)
+  Mover(Este)
+  Poner(Azul)
+}

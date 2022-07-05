@@ -1,0 +1,5 @@
+program{
+  Mover(Sur)
+  Mover(Este)
+  Mover(Este)
+}

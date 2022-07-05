@@ -1,0 +1,10 @@
+procedure PrenderOApagarLuz(){
+  if(hayBolitas(Verde)){
+    Poner(Negro)
+    Sacar(Verde)
+  }
+  else{
+    Poner(Verde)
+    Sacar(Negro)
+  }
+}

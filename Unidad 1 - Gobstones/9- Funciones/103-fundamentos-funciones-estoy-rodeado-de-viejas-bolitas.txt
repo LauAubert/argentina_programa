@@ -1,0 +1,8 @@
+function estoyRodeadoDe(c){
+ return(
+   hayBolitasAl(Norte, c)&&
+   hayBolitasAl(Sur, c)  &&
+   hayBolitasAl(Este, c) &&
+   hayBolitasAl(Oeste, c)
+  ) 
+}

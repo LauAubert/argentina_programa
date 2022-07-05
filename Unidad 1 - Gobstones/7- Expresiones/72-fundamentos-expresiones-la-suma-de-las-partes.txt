@@ -1,0 +1,4 @@
+procedure PonerSuma(x, y){
+  PonerN(x+y,Rojo)
+  
+}

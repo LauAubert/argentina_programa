@@ -1,0 +1,12 @@
+procedure Azul21(){
+  repeat(21){
+      Poner(Azul)
+    }
+}
+procedure DiagonalPesada4Azul(){
+  repeat(4){
+    Azul21()
+    Mover(Norte)
+    Mover(Este)
+  }
+}

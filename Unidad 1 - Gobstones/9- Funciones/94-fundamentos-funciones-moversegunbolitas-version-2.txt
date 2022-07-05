@@ -1,0 +1,7 @@
+procedure MoverSegunBolitas() {
+  if (nroBolitasTotal() > 10) {
+    Mover(Este)
+  } else {
+    Mover(Norte)
+  }
+}

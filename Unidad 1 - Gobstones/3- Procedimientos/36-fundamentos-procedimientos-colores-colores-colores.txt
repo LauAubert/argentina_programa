@@ -1,0 +1,6 @@
+procedure Bolas(){
+  Poner(Rojo)
+  Poner(Negro)
+  Poner(Azul)
+  Poner(Verde)
+}

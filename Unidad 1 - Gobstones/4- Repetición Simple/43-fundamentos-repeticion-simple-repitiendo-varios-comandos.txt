@@ -1,0 +1,4 @@
+procedure DibujarLineaNegra6() {
+  repeat(6){
+  Poner(Negro)
+  Mover(Este)
